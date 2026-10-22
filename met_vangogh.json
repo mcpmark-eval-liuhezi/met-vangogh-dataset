@@ -1,0 +1,55 @@
+{
+  "dataset": "Vincent van Gogh works from The Metropolitan Museum of Art",
+  "department": "European Paintings",
+  "source": "The Metropolitan Museum of Art Collection API",
+  "records": [
+    {
+      "title": "Wheat Field with Cypresses",
+      "artist": "Vincent van Gogh",
+      "date": "1889",
+      "medium": "Oil on canvas",
+      "met_object_id": 436535,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436535"
+    },
+    {
+      "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+      "artist": "Vincent van Gogh",
+      "date": "1887",
+      "medium": "Oil on canvas",
+      "met_object_id": 436532,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436532"
+    },
+    {
+      "title": "Irises",
+      "artist": "Vincent van Gogh",
+      "date": "1890",
+      "medium": "Oil on canvas",
+      "met_object_id": 436528,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436528"
+    },
+    {
+      "title": "Oleanders",
+      "artist": "Vincent van Gogh",
+      "date": "1888",
+      "medium": "Oil on canvas",
+      "met_object_id": 436530,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436530"
+    },
+    {
+      "title": "Roses",
+      "artist": "Vincent van Gogh",
+      "date": "1890",
+      "medium": "Oil on canvas",
+      "met_object_id": 436534,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436534"
+    },
+    {
+      "title": "L'Arlésienne: Madame Joseph-Michel Ginoux (Marie Julien, 1848–1911)",
+      "artist": "Vincent van Gogh",
+      "date": "1889–90",
+      "medium": "Oil on canvas",
+      "met_object_id": 436529,
+      "object_url": "https://www.metmuseum.org/art/collection/search/436529"
+    }
+  ]
+}
